@@ -1,4 +1,4 @@
 #© 2021. This work is licensed under a CC-BY-NC-SA license.
-#"Thalamo-cortical spiking model of incremental learning combining perception, context and NREM-sleep-mediated noise-resilience"
-#Authors: Bruno Golosio, Chiara De Luca, Cristiano Capone, Elena Pastorelli, Giovanni Stegel, Gianmarco Tiddia, Giulia De Bonis and Pier Stanislao Paolucci
-#arxiv.2003.11859
+#Golosio B, De Luca C, Capone C, Pastorelli E, Stegel G, Tiddia G, De Bonis G, Paolucci PS (2021) 
+#Thalamo-cortical spiking model of incremental learning combining perception, context and NREM-sleep.
+#PLOS Computational Biology 17(6): e1009045. https://doi.org/10.1371/journal.pcbi.1009045
